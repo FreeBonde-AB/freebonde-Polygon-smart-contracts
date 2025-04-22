@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Hardhat artifacts
+artifacts
+cache
+
+# Compiled files
+build
+
+# Environment variables
+.env
+
+# Cache
+cache
+
+# Test coverage
+coverage
+
+# Misc
+.DS_Store
+*.log
